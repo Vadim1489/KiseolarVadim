@@ -21,7 +21,7 @@ About me:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title = "git" width = "40px" height = "40px" />    
 </div>
 <h3>Contact me: </h3>
-<li><a href =`mailto:${kiseolar1998@gmail.com}`>kiseolar1998@gmail.com</a></li>
+<li><a href ="kiseolar1998@gmail.com">kiseolar1998@gmail.com</a></li>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=KiseolarVadim&style=flat-square&color=blue" alt="counter"/>
 </div>
