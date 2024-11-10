@@ -10,7 +10,7 @@ beginner front-end developer 💪</h3>
 About me:
 <li>I started learning programming in 2023.</li>
 <li>Speak Russian, Bulgarian, German, and a liltle English.</li>
-<li>Passionate about basketball, and technology.</li>
+<li>Passionate about basketball, and web technology.</li>
 <h3>My current tech stack:</h3>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title = "HTML" width="40px" height= "40px"/>
