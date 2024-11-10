@@ -4,9 +4,9 @@
 My name is Vadim, I'm a web developer based in Leipzig, Germany. 🚀
 
 ### About me:
-- I started studying web development in [your starting year].
-- I speak Russian, German, and English.
-- Passionate about basketball, cycling, and technology.
+- I started studying web development in 2023.
+- I speak Russian, Bulgarian, German, and English.
+- Passionate about basketball, and technology.
 
 ---
 
@@ -17,10 +17,9 @@ My name is Vadim, I'm a web developer based in Leipzig, Germany. 🚀
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-... (add more as needed)
 
 ---
 
 ### Contact me:
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](link_to_your_linkedin_profile)
-- Email: [your_email@example.com](mailto:your_email@example.com)
+- [![LinkedIn](https://www.linkedin.com/in/vadim-kiseolar-67b4aa300/)](link_to_your_linkedin_profile)
+- Email: [kiseolar1998@gmail.com](mailto:kiseolar1998@gmail.com)
