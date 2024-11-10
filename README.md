@@ -1,7 +1,7 @@
 
 # Hi everyone! 👋
 
-My name is Vadim, I'm a web developer based in Leipzig, Germany. 🚀
+My name is Vadim, I'm a fresh Frontend Developer based in Leipzig, Germany. 🚀
 
 ### About me:
 - I started studying web development in 2023.
@@ -21,5 +21,5 @@ My name is Vadim, I'm a web developer based in Leipzig, Germany. 🚀
 ---
 
 ### Contact me:
-- [![LinkedIn](https://www.linkedin.com/in/vadim-kiseolar-67b4aa300/)](link_to_your_linkedin_profile)
+- [![LinkedIn](https://www.linkedin.com/in/vadim-kiseolar-67b4aa300/)](VadimKiseolar)
 - Email: [kiseolar1998@gmail.com](mailto:kiseolar1998@gmail.com)
