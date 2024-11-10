@@ -1,25 +1,27 @@
-
-# Hi everyone! 👋
-
-My name is Vadim, I'm a fresh Frontend Developer based in Leipzig, Germany. 🚀
-
-### About me:
-- I started studying web development in 2023.
-- I speak Russian, Bulgarian, German, and English.
-- Passionate about basketball, and technology.
-
----
-
-### My current tech stack:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### Contact me:
-- [![LinkedIn](https://www.linkedin.com/in/vadim-kiseolar-67b4aa300/)](VadimKiseolar)
-- Email: [kiseolar1998@gmail.com](mailto:kiseolar1998@gmail.com)
+<div id="header" align="start">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<h1>Hi everyone! 👋</h1>
+<h3>My name is Vadim, I'm 25 years old, based in Germany, and I'm a 
+beginner front-end developer 💪</h3>
+  <a href="https://www.linkedin.com/in/vadim-kiseolar-67b4aa300/"> 
+  <img src="https://img.shields.io/badge/linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
+  </a>
+  </div>
+About me:
+<li>I started learning programming in 2023.</li>
+<li>Speak Russian, Bulgarian, German, and a liltle English.</li>
+<li>Passionate about basketball, and technology.</li>
+<h3>My current tech stack:</h3>
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title = "HTML" width="40px" height= "40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title = "css" width="40px" height= "40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title = "JS" width="40px" height= "40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title = "react" width="40px" height= "40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title = "redux" width="40px" height= "40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" title = "git" width = "40px" height = "40px" />    
+</div>
+<h3>Contact me: </h3>
+<li><a href ="kiseolar1998@gmail.com">kiseolar1998@gmail.com</a></li>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=CherniyAleksandr&style=flat-square&color=blue" alt="counter"/>
+</div>
