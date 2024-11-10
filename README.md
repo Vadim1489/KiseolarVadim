@@ -1,5 +1,5 @@
 <div id="header" align="start">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611bx1qiybx96dres6n1x6fjucg5zmkxotwi1sci865&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 <h1>Hi everyone! 👋</h1>
 <h3>My name is Vadim, I'm 25 years old, based in Germany, and I'm a 
 beginner front-end developer 💪</h3>
